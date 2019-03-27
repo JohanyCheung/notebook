@@ -31,7 +31,7 @@
     - [聚类算法选择速查表](机器学习/聚类算法/0x02聚类算法选择速查表.md)
     - [聚类算法的选择](机器学习/聚类算法/0x04聚类算法的选择.md)
     - [Based on partition](./机器学习/聚类算法/Based on partition)
-      - [K-means及相关变种算法](机器学习/聚类算法/Based on partition/K-means及相关变种算法)
+      - [K-means及相关变种算法](./机器学习/聚类算法/Based on partition/K-means及相关变种算法)
       - [K-Medoids算法](机器学习/聚类算法/Based on partition/K-Medoids算法.md)
       - [Affinity Propagation](机器学习/聚类算法/Based on partition/Affinity Propagation.md)
     - [Based on hierarchy](机器学习/聚类算法/Based on hierarchy)
